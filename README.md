@@ -126,3 +126,4 @@ AT89C51 (8051) + Keil + Proteus
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%"/>
 
 </div>
+
