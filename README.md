@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="仙山云海"/>
+<img src="assets/banner.webp" width="100%" alt="仙山云海"/>
 
 # ⚔️ LOrz Lee ⚔️
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="assets/divider.png" width="100%" alt="灵剑分隔"/>
+<img src="assets/divider.webp" width="100%" alt="灵剑分隔"/>
 
 <div align="center">
 
@@ -114,7 +114,7 @@
 </tr>
 </table>
 
-<img src="assets/divider.png" width="100%" alt="灵剑分隔"/>
+<img src="assets/divider.webp" width="100%" alt="灵剑分隔"/>
 
 <div align="center">
 
@@ -131,7 +131,7 @@
 
 <br/><br/>
 
-<img src="assets/footer.png" width="100%" alt="月下修行"/>
+<img src="assets/footer.webp" width="100%" alt="月下修行"/>
 
 *青山不改 绿水长流 · 道友再会*
 
