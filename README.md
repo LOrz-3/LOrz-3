@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.webp" width="100%" alt="仙山云海"/>
+<img src="assets/banner_framed.webp" width="100%" alt="仙山云海"/>
 
 # LOrz Lee
 
@@ -118,6 +118,6 @@
 
 <br/>
 
-<img src="assets/fairy_dance.webp" width="100%" alt="仙子夜湖·凌波舞"/>
+<img src="assets/fairy_dance_framed.webp" width="100%" alt="仙子夜湖·凌波舞"/>
 
 </div>
