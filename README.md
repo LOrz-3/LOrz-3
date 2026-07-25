@@ -23,9 +23,9 @@
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 📱 [移动应用软件](https://github.com/LOrz-3/mobile-app-course)
 *HarmonyOS / ArkTS*
@@ -35,7 +35,7 @@
 - 🛒 期末设计 · IRIS 市场（含 Socket 聊天）
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
 ### ⚙️ [操作系统](https://github.com/LOrz-3/os-course)
 *基于华为 UniProton*
@@ -47,7 +47,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
 ### ☕ [企业级 Java 开发](https://github.com/LOrz-3/CQU-JAVA-code-report)
 *校园二手交易系统（五次迭代）*
@@ -57,7 +57,7 @@
 - ☁️ 微服务架构 + WebSocket
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 🔌 [单片机实践基础](https://github.com/LOrz-3/CQU-AT89C52)
 *AT89C51 (8051) · Keil · Proteus*
@@ -69,7 +69,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 🌐 [计算机网络](https://github.com/LOrz-3/CQU-Computer-Network)
 - 🔗 网线制作 & VLAN 配置
@@ -77,7 +77,7 @@
 - 📖 读书报告 + 复习资料
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 🔐 [网络空间安全概论](https://github.com/LOrz-3/CQU-Cybersecurity-Introduction)
 - 🔑 加密解密 · 数字水印
@@ -87,7 +87,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 📡 [边缘计算](https://github.com/LOrz-3/CQU-Edge-Computing)
 - 🚗 智能交通违法与事故检测系统设计
@@ -95,7 +95,7 @@
 - 📝 边缘视频分析读书笔记
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
 ### 🏗️ [软件工程](https://github.com/LOrz-3/CQU-Softwareengineering)
 - 📋 系统解决方案设计
