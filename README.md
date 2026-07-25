@@ -123,6 +123,6 @@
 
 <br/><br/>
 
-<img src="assets/footer.webp" width="100%" alt="月下泛舟"/>
+<img src="assets/fairy_dance.webp" width="100%" alt="仙子夜湖·凌波舞"/>
 
 </div>
