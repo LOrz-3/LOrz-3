@@ -1,5 +1,9 @@
 # 动效生成脚本（可复用素材）
 
+> **这三个脚本与 [`LOrz-3/pixel-anim-workflow`](https://github.com/LOrz-3/pixel-anim-workflow)
+> 的 `scripts/` 逐字节相同**，是历史遗留副本。改动效请只改工作流仓库那一份，否则两边漂移。
+> 新做动图也走那边的 `pixelfx/` 管线（GLSL + 参数 JSON + 实时预览页），不要再基于本目录扩展。
+
 基于 `assets/banner.png`（静态底图，1536×1024）生成动态 `assets/banner.webp` 的像素动画脚本。
 依赖：`pip install opencv-python-headless numpy pillow`，在仓库根目录运行。
 
